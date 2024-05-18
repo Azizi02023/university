@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/university/static/css/main.37cb280d.css",
+    "main.js": "/university/static/js/main.308f5464.js",
+    "static/js/453.0b394662.chunk.js": "/university/static/js/453.0b394662.chunk.js",
+    "static/media/KabulU.mp4": "/university/static/media/KabulU.12d438de72b016bbf5ff.mp4",
+    "static/media/g1.jpg": "/university/static/media/g1.9d70c49793d5451eda3f.jpg",
+    "static/media/news1.jpg": "/university/static/media/news1.0a1c7f4b3742240a1c5b.jpg",
+    "static/media/g2.jpg": "/university/static/media/g2.c31aa8af15d386f2eb82.jpg",
+    "static/media/Ejazullah Mazhar.jpeg": "/university/static/media/Ejazullah Mazhar.8711b35a747b716c4e12.jpeg",
+    "static/media/KBL2.jpg": "/university/static/media/KBL2.0c902fdb55710f57bc5d.jpg",
+    "static/media/StoryGratuatuion.jpg": "/university/static/media/StoryGratuatuion.0f1c8ed4907366c54ced.jpg",
+    "static/media/StoryGratuation1.jpg": "/university/static/media/StoryGratuation1.beb0a41b54b14b4e990a.jpg",
+    "static/media/image3.jpeg": "/university/static/media/image3.b07241d03ad17abbc1d0.jpeg",
+    "static/media/image6.jpeg": "/university/static/media/image6.42b3f7ece1bbf16b5ae0.jpeg",
+    "static/media/Chan.jpeg": "/university/static/media/Chan.de04032079d0af5ba8d2.jpeg",
+    "static/media/image1.jpeg": "/university/static/media/image1.f09aac51212f0d7b59f6.jpeg",
+    "static/media/image2.jpeg": "/university/static/media/image2.fbd34535b94be2d965c8.jpeg",
+    "static/media/News3.jpeg": "/university/static/media/News3.1944918fc85ab15e35dc.jpeg",
+    "static/media/image5.jpeg": "/university/static/media/image5.6f18fbd7bbabbee98103.jpeg",
+    "static/media/News2.jpeg": "/university/static/media/News2.8154a628ff438eaf6e80.jpeg",
+    "index.html": "/university/index.html",
+    "main.37cb280d.css.map": "/university/static/css/main.37cb280d.css.map",
+    "main.308f5464.js.map": "/university/static/js/main.308f5464.js.map",
+    "453.0b394662.chunk.js.map": "/university/static/js/453.0b394662.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37cb280d.css",
+    "static/js/main.308f5464.js"
+  ]
+}
